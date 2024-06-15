@@ -1,0 +1,26 @@
+=============================================================================================================
+TABLE INFO
+=============================================================================================================
+
+ID: ACSDT5Y2022.B19313
+Title: Aggregate Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars)
+
+=============================================================================================================
+Notes
+=============================================================================================================
+
+     HEADER NOTES
+
+-------------------------------------------------------------------------------------------------------------
+
+Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, the decennial census is the official source of population totals for April 1st of each decennial year. In between censuses, the Census Bureau's Population Estimates Program produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units for states and counties.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+Information about the American Community Survey (ACS) can be found on the <a href=\"https://www.census.gov/programs-surveys/acs.html\">ACS website<\/a>. Supporting documentation including code lists, subject definitions, data accuracy, and statistical testing, and a full list of ACS tables and table shells (without estimates) can be found on the <a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html\">Technical Documentation<\/a> section of the ACS website.<br /><br />Sample size and data quality measures (including coverage rates, allocation rates, and response rates) can be found on the American Community Survey website in the <a href=\"https://www.census.gov/acs/www/methodology/sample_size_and_data_quality/\">Methodology<\/a> section.<br/><br/>
+
+-------------------------------------------------------------------------------------------------------------
+
+     FOOTER NOTES
+
+-------------------------------------------------------------------------------------------------------------

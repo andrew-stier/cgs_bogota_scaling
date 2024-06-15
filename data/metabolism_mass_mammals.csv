@@ -1,0 +1,392 @@
+,"species","M(g)","B(W)"
+0,"Bos taurus",347000,306.77
+1,"Camelus dromedarius",407000,229.18
+2,"Capreolus capreolus",21500,48.43
+3,"Cervus elaphu",67000,112.43
+4,"Connochaetes taurinus",140000,157.67
+5,"Kobus defassa",100000,152.04
+6,"Lama glama",115000,148.94
+7,"Odocoileus virginianus",65320,106.67
+8,"Oreamnos americanus",32000,46.85
+9,"Ovis canadensis",65000,124.45
+10,"Rangifer tarandust",85000,119.66
+11,"Sus scrofa",135000,104.15
+12,"Taurotragus oryx",133300,180.15
+13,"Tayassu tajacu",20200,32.99
+14,"Tragulus javanicus",1613,4.9
+15,"Acinonyx jubatus",39000,76.86
+16,"Ailurus fulgens",5740,5.11
+17,"Alopex lagopus",3600,7.74
+18,"Arctitis binturong",14280,12.54
+19,"Canis latrans",10000,14.98
+20,"Cerdocyon thous",5444,8.43
+21,"Enhydra lutris",40000,144.15
+22,"Fennecus zerda",1106,2.23
+0,"Fossa fossa",2260,5.09
+1,"Genetta tigrina",1700,4.21
+2,"Gulo gulo",12700,32.9
+3,"Herpestes auropunctatus",611,2.27
+4,"Herpestes sanguineus",540,2.31
+5,"Lutra lutra",10000,25.34
+6,"Lycaon pictus",8750,33.01
+7,"Martes americana",1038,3.86
+8,"Martes martes",920,4.14
+9,"Meles meles",11050,16.8
+10,"Mustela erminea",210,1.75
+11,"Mustela frenata",225,1.39
+12,"Mustela vison",660,2.75
+13,"Nandinia binotata",4270,6.49
+14,"Nasua nasua",4000,5.63
+15,"Paradoxurus",3410,4.03
+16,"Phoca fasciata",54000,118.59
+17,"Phoca groenlandicat",150000,168.93
+18,"Phoca vitulina",27400,73.29
+19,"Potos flavus",2400,4.27
+20,"Procyon cancrivorus",1160,2.56
+21,"Proteles cristatus",7710,11.03
+22,"Taxidea taxus",9000,15.2
+23,"Vulpes macrotis",1769,6.02
+24,"Anoura caudifer",11.5,0.24
+25,"Artibeus concolor",19.7,0.22
+26,"Artibeus jamaicensis",47,0.3
+27,"Artibeus lituratus",70.1,0.61
+28,"Carollia perspicillata",14.9,0.24
+29,"Chrotopterus auritus",96.1,0.8
+30,"Cynopterus brachyotis",37,0.26
+31,"Desmodus rotundus",29.4,0.2
+32,"Jiaemus young",36.6,0.21
+33,"Diphylla ecaudata",27.8,0.22
+0,"Eumops perotis",56,0.22
+1,"Glossophaga soricina",9.6,0.17
+2,"Hipposideros galeritus",8.5,0.05
+3,"Histiotus velatus",11.2,0.09
+4,"Leptonycteris sanborni",22,0.21
+5,"Macroderma gigas",148,0.78
+6,"Molossus molossus",15.6,0.13
+7,"Myotis lucifugus",6.5,0.05
+8,"Myotis velifer",11.89,0.04
+9,"Noctilio albiventris",27,0.18
+10,"Noctilio leporinus",61,0.4
+11,"Nyctimene albiventer",28.2,0.23
+12,"Paranyctimene raptor",21.3,0.17
+13,"Phyllostomus discolor",33.5,0.27
+14,"Phyllostomus elongatus",36,0.22
+15,"Phyllostomus hastatus",84.2,0.56
+16,"Pteropus poliocephalus",598,1.78
+17,"Pteropus scapulatus",362,1.37
+18,"Rhinophylla pumilio",9.5,0.1
+19,"Sturnira lilium",21,0.19
+20,"Syconycteris australis",17.5,0.19
+21,"Tadarida brasiliensis",10.4,0.12
+22,"Tonatia bidens",27.4,0.31
+23,"Uroderma bilobatum",16.2,0.18
+24,"Vampyrops lineatus",21.9,0.25
+25,"Bradypus variagatus",3790,3.86
+26,"Cabassous centralis",3810,4.57
+27,"Chaetophractus nationi",2150,3.15
+28,"Chaetophractus",1110,1.73
+29,"Chaetophractus villosus",4540,4.55
+30,"Choloepus hoffmanni",4250,4.5
+31,"Dasypus novemcinctus",3320,4.49
+,"Euphractus sexcinctus",8190,6.96
+32,"Myrmecophaga tridactyla",30600,14.65
+0,"Zaedyus pichiy",1740,2.25
+1,"Dendrohyrax dorsalis",2210,4.18
+2,"Heterohyrax brucei",2000,4.05
+3,"Procavia capensis",2400,3.65
+4,"Procavia habessinica",2250,5.07
+5,"Procavia johnstoni",2750,6.81
+6,"Amblysomus hottentotus",70,0.48
+7,"Blarina brevicauda",20.7,0.29
+8,"Chrysochloris asiatica",33,0.22
+9,"Crocidura occidentalis",33.16,0.25
+10,"Crocidura russula",13.7,0.15
+11,"Crocidura suaveolens",7.5,0.12
+12,"Echinops telfairi",116.4,0.75
+13,"Echinosorex gymnurus",721.2,2.84
+14,"Erinaceus albiventris",450,0.84
+15,"Erinaceus europaeus",2000,2.91
+16,"Hemiechinus auritus",397,0.87
+17,"Neomys fodiens",17.1,0.31
+18,"Notiosorex crawfordi",4,0.07
+19,"Paraechinus aethiopicus",453,0.68
+20,"Scalopus aquaticus",48,0.38
+21,"Scapanus latimanus",61,0.43
+22,"Scapanus orarius",61.2,0.35
+23,"Scapanus townsendi",130.1,0.6
+24,"Setifer setosus",530,0.69
+25,"Sorex cinereus",7.9,0.31
+26,"Sorex minutus",4.6,0.18
+27,"Suncus etruscus",2.5,0.05
+28,"Suncus murinus",52.3,0.49
+29,"Tenrec ecaudatus",650,0.74
+30,"Lepus alleni",3362,8.54
+31,"Lepus arcticus",3004.4,6.09
+0,"Sylvilagus audubonii",701.7,2.57
+1,"Elaphantalus rufescens",53,0.32
+2,"Elephantalus edwardi",49.8,0.31
+3,"Petrodromus",210,0.72
+4,"Antechinomys spenceri",24.2,0.13
+5,"Antechinus maculatus",8.5,0.06
+6,"Antechinus stuartii",22.1,0.19
+7,"Caluromys derbianus",357,1.15
+8,"Cercartetus nanus",70,0.34
+9,"Chinorectes minimus",946,3.09
+10,"Cyclopes didactylus",240,0.64
+11,"Dasycercus cristicaudata",88.8,0.26
+12,"Dasyuroides byrnei",89,0.44
+13,"Dasyurops",1782,3.01
+14,"Dasyurus geoffroii",1300,2.82
+15,"Dasyurus viverrinus",909.9,2.31
+16,"Dendrolagus matschiei",6960,8.23
+17,"Didelphis marsupialis",1329,3.44
+18,"Didelphis virginiana",3257,6.05
+19,"Echymipera kalabu",695,1.92
+20,"Echymipera rufescens",1276,3.02
+21,"Gymnobelideus",166.3,0.58
+22,"Isoodon macrourus",1551,3.23
+23,"Tsoodon macrourus",2660,4.79
+24,"Lagorchestes",25000,14.08
+,"Lutreolina crassicaudata",812,2.29
+0,"Marmosa robinsoni",122,0.55
+1,"Megaleia rufa",25000,30.13
+2,"Metachirus nudicaudatus",336,1.15
+3,"Monodelphis",111,0.43
+4,"Myrmecobius fasciatus",480,1.05
+5,"Perameles nasuta",645,1.76
+6,"Petaurus breviceps",128.1,0.5
+7,"Phalanger maculatus",4250,5.67
+8,"Phascogale tapotafa",157.2,0.72
+9,"Phascolarctos cinereus",4700,5.72
+10,"Philander opossum",751,1.9
+11,"Planigale gilesi",9.4,0.07
+12,"Planigale ingrami",7.1,0.06
+13,"Planigale maculata",13.1,0.07
+14,"Potorous tridactylus",1120,2.84
+,"a",43.1,0.15
+,"a",828,2.21
+,"a",6500,6.52
+,"a",584,1.68
+,"a",2510,4.52
+,"a",14.1,0.11
+,"a",1982,3.52
+,"a",1200,2.5
+,"a",3430,2.55
+,"a",13630,6.22
+,"a",177500,164.92
+0,"Alouatia palliata",4670,11.57
+1,"Aotus trivirgatus",1020,2.56
+2,"Arctocebus calabarensis",206,0.73
+3,"Callithrix jachus",190,0.86
+4,"Cebuella pygmeaa",105,0.55
+5,"Cheirogaleus medius",300,1.1
+6,"Euoticus elegantilus",261.5,1.2
+7,"Galago crassicaudatus",1039,2.93
+8,"Galago demidovii",61,0.42
+9,"Galago elegantulus",261.5,1.2
+10,"Homo sapiens",70000,82.78
+11,"Lemur fulvus",2330,4.2
+12,"Nycticebus coucang",1300,1.73
+13,"Papio anubis",9500,16.05
+14,"Perodicticus potto",1011,2.07
+15,"Saguinus geoffroyi",225,1.3
+16,"Saimiri sciureus",800,4.39
+17,"Elephas maximus",3672000,2336.5
+18,"Acomys cahirinus",42,0.26
+19,"Acomys russatus",51.1,0.23
+20,"Aconaemys fuscus",112,0.68
+21,"Agouti paca",9156,15.47
+22,"Akodon azarae",23.5,0.22
+23,"Alticola argentatus",37.7,0.68
+24,"Ammospermophilus",112.8,0.55
+25,"Aplodontia rufa",630,1.56
+26,"Apodemus flavicollis",40.5,0.86
+27,"Arvicola richardsoni",51,0.5
+28,"Arvicola terrestris",97.5,0.64
+29,"Baiomys taylori",7.3,0.08
+30,"Cannomys badius",344,0.97
+31,"Capromys pilorides",2630,3.36
+32,"Yavia porcellus",728,2.25
+33,"Chinchilla lanigera",485,1.28
+0,"Clethrionomys rutilus",28,0.43
+1,"Coendou prehensilis",3280,5.17
+2,"Cricetus cricetus",336.7,1.19
+3,"Cryptomys hottentotus",71,0.38
+4,"Ctenomys fulvus",300,1.06
+5,"Ctenomys maulinus",215,1.05
+6,"Ctenomys peruanus",490,1.24
+7,"Cuniculus cuniculus",2000,6.42
+8,"Cynomys ludovicianus",1112.3,2.4
+9,"Dasyprocta azarae",3849,10.62
+10,"Dasyprocta leporina",2687,8.78
+11,"Dicrostonyx",47,0.52
+12,"Dipodomys agilis",61,0.36
+13,"Dipodomys deserti",107.5,0.49
+14,"Dipodomys merriami",43.4,0.23
+15,"Dipodomys microps",54.2,0.33
+16,"Dipodomys ordii",48.8,0.32
+17,"Dipodomys",56.9,0.38
+18,"Dipus aegiptius",160,0.7
+19,"Dolichotis salincola",1613,4.09
+20,"Epixerus wilsoni",460,1.35
+21,"Erithizon epixanthum",6790,13.76
+22,"Eutamias amoenus",52.7,0.43
+23,"Eutamius merriami",78.9,0.48
+24,"Eutamias minimus",53,0.3
+25,"Eutamias palmeri",69.4,0.64
+26,"Funisciurus isabella",60,0.57
+27,"Funisciurus lemniscatus",95,0.5
+28,"Funisciurus mystax",63,0.58
+29,"Funisciurus pyrrhopus",244,1.01
+30,"Geomys bursarius",197,0.78
+31,"Geomys pinetis",203,0.77
+32,"Gis glis",152,0.5
+,"a",62.8,0.37
+,"a",88,0.42
+,"a",26385,37.14
+0,"Hydromys chrysogaster",900,2.97
+1,"Jaculus jaculus",74.5,0.52
+2,"Jaculus orientalis",139.1,0.78
+3,"Kerodon rupestris",801,2.03
+4,"Lagostomus maximus",6804,10.65
+5,"Leggadina",12.2,0.13
+6,"Lemmus sibericus",70,0.67
+7,"Lemniscomys griselda",51,0.35
+8,"Lemnus trimucronatus",64,0.89
+9,"Lepus americanus",2100,6.65
+10,"Liomys irroratus",48.1,0.3
+11,"Liomys salvini",43.8,0.26
+12,"Marmota flaviventris",4294.9,8.78
+13,"Marmota monax",2650,3.73
+14,"Meriones hurrianae",72.3,0.3
+15,"Meriones unguiculatus",67,0.43
+16,"Mesocricetus auratus",119.5,0.58
+17,"Microdipodops pallidus",15.2,0.11
+18,"Micromys minutus",8.71,0.26
+19,"Microtus agrestis",22.3,0.38
+20,"Microtus arvalis",23.9,0.34
+21,"Microtus californicus",44,0.38
+22,"Microtus longicaudus",41.4,0.4
+23,"Microtus mexicanus",28,0.26
+24,"Microtus minutus",8.7,0.24
+25,"Microtus montanus",30.79,0.46
+26,"Microtus nivalis",32.8,0.46
+27,"Microtus ochrogaster",51,0.34
+28,"Microtus oeconomust",32,0.57
+,"a",38,0.41
+,"a",25,0.28
+,"a",52.2,0.48
+0,"Mus musculus",17,0.16
+1,"Mus musculus alb",26,0.34
+2,"Mustela rixosa",75,0.93
+3,"Myoprocta acouchy",914,2.83
+4,"Napaeozapus insignis",21.6,0.22
+0,"Neotoma albigula",172.4,0.72
+1,"Neotoma cinerea",320.9,1.41
+2,"Neotoma fuscipes",186.7,0.83
+3,"Neotoma lepida",106,0.36
+4,"Notiomys macronyx",62,0.47
+5,"Notomys alexis",32.3,0.25
+6,"Notomys cervinus",34.2,0.23
+7,"Ochrotomys nuttalli",19.5,0.15
+8,"Ocodon degus",206,1.08
+9,"Octodontomys gliroides",152,0.74
+10,"Ondatra zibethicus",842,3.89
+11,"Onychomys torridus",19.1,0.17
+12,"Oryctolagus cuniculus",2350,8.6
+13,"Oxymycterus roberti",83.5,0.51
+14,"Perognathus californicus",22,0.12
+15,"Perognathus hispidus",40,0.28
+16,"Perognathus intermedius",14.6,0.09
+17,"Perognathus",8.9,0.05
+18,"Perognathus parvus",19.2,0.16
+19,"Perognathus penicillatus",16,0.13
+20,"Perom leucopus",26,0.32
+21,"Peromyscus boylii",23.2,0.31
+22,"Peromyscus californicus",48,0.25
+23,"Peromyscus crinitus",13.6,0.1
+24,"Peromyscus eremicus",20.7,0.15
+25,"Peromyscus floridanus",30.8,0.29
+26,"Peromyscus gossypinus",21.5,0.21
+27,"Peromyscus leucopus",22.3,0.19
+28,"Peromyscus maniculatus",17,0.17
+29,"Peromyscus megalops",66.2,0.51
+30,"Peromyscus pirrensis",137.8,0.68
+31,"Peromyscus polionotus",12,0.12
+32,"Peromyscus sitkensis",28.33,0.26
+,"a",110.8,0.7
+0,"Peromyscus truei",33,0.26
+1,"Phodopus sungorus",33.2,0.3
+2,"Pitymys pinetorum",25,0.28
+3,"Praomys natalensis",41.49,0.18
+4,"Proechimys semispinosus",498,1.77
+,"a",79.8,0.47
+0,"Rattus meltada",67.4,0.33
+1,"Rattus norvegicus",170,0.96
+2,"Rattus rattus",117,0.77
+3,"Reithrodontomys",9,0.13
+4,"Rhabdomys pumilio",39.62,0.18
+5,"Sciurus aberti",624,2.42
+6,"Sciurus carolinensis",440,2.08
+7,"Scotinomys teguina",12,0.18
+8,"Scotinomys xerampelinus",15.2,0.18
+9,"Sigmodon fulviventer",137.8,1.17
+10,"Sigmodon hispidus",152.4,0.71
+11,"Sigmodon leucotis",128.6,1.05
+12,"Sigmodon ochrognathus",115.1,0.87
+13,"Spalacopus cyanus",136,0.57
+14,"Spalax ehrenbergi",128,0.62
+15,"Spalax leucodon",177.9,0.63
+16,"Spermophilus armatus",312.8,0.88
+17,"Spermophilus beecheyi",599.6,1.79
+18,"Spermophilus beldingi",288.56,0.8
+19,"Spermophilus citellus",240,1.28
+20,"Spermophilus fraklinii",607,2.19
+21,"Spermophilus lateralis",270.16,0.74
+22,"Spermophilus leucurus",96,0.54
+23,"Spermophilus mohavensis",239.5,0.63
+24,"Spermophilus",273.07,0.74
+25,"Spermophilus saturatus",261.15,0.8
+26,"Spermophilus spilosoma",157.8,0.5
+27,"Spermophilus",167.2,0.53
+,"a",212.52,0.6
+,"a",182.3,0.59
+0,"Dobsonia minor",87,0.62
+1,"Eonycteris spelaea",52,0.27
+2,"Eptesicus fuscus",16.9,0.11
+3,"Priodontes maximus",45190,17.05
+4,"Tamandua mexicana",4210,4.79
+5,"Tamandua tetradactyla",3500,4.99
+6,"Tolypeutes matacus",1160,1.18
+7,"Lepus californicus",2300,7.38
+8,"Ochotona daurica",127.7,1.4
+9,"Ochotona princeps",109,0.94
+10,"Macropus eugenii",4796,7.78
+11,"Macropus robustus",30000,34.46
+12,"Macrotis lagotis",1477,2.79
+13,"Marmosa microtarsus",13,0.13
+14,"Manis crassicaudata",15910,6.99
+15,"Manis javanica",4220,6.23
+16,"Manis tricupis",2730,4.63
+17,"Citellus undulatus",680,3.31
+18,"Clethrionomys gapperi",23,0.26
+19,"Clethrionomys glareolus",20.5,0.27
+20,"Clethrionomys rufocanus",27.5,0.31
+21,"eliophobius kapeti",89,0.44
+22,"Heliosciurus rufobrachium",271,0.9
+23,"Heterocephalus glaber",39,0.14
+24,"Spermophilus undulatus",1000,4.5
+25,"Stochomys longicaudatus",82.33,0.55
+26,"Tachyoryctes splendens",234,0.92
+27,"Tamias amoenus",57,0.54
+28,"Tamias merriami",75,0.44
+29,"Tamias striatus",87.4,0.51
+30,"Tamiasciurus hudsonicus",224,1.41
+31,"Tatera indica",86.8,0.43
+32,"Thomomys bottae",143,0.68
+33,"Thomomys talpoides",82.6,0.55
+34,"Thomomys umbrinus",95.3,0.46
+35,"Trichomys apereoides",323,1.16
+36,"Zapus hudsonicus",30,0.25
+37,"Ptilocercus lowii",57.5,0.24
+38,"Trichechus inunguis",170000,46.91

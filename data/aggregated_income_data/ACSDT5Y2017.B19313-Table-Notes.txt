@@ -1,0 +1,26 @@
+=============================================================================================================
+TABLE INFO
+=============================================================================================================
+
+ID: ACSDT5Y2017.B19313
+Title: AGGREGATE INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)
+
+=============================================================================================================
+Notes
+=============================================================================================================
+
+     HEADER NOTES
+
+-------------------------------------------------------------------------------------------------------------
+
+Supporting documentation on code lists, subject definitions, data accuracy, and statistical testing can be found on the American Community Survey website in the \n<a href=\"https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html\" xmlns=\"http://www.thedataweb.org/aggregateDisplay\">Technical Documentation<\/a>\n\n section.\n<br xmlns=\"http://www.thedataweb.org/aggregateDisplay\"/>\n\n<br xmlns=\"http://www.thedataweb.org/aggregateDisplay\"/>\n\nSample size and data quality measures (including coverage rates, allocation rates, and response rates) can be found on the American Community Survey website in the \n<a href=\"https://www.census.gov/acs/www/methodology/sample_size_and_data_quality/\" xmlns=\"http://www.thedataweb.org/aggregateDisplay\">Methodology<\/a>\n\n section.
+
+-------------------------------------------------------------------------------------------------------------
+
+Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units for states and counties.
+
+-------------------------------------------------------------------------------------------------------------
+
+     FOOTER NOTES
+
+-------------------------------------------------------------------------------------------------------------

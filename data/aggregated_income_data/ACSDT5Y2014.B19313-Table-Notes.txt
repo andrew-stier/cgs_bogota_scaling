@@ -1,0 +1,26 @@
+=============================================================================================================
+TABLE INFO
+=============================================================================================================
+
+ID: ACSDT5Y2014.B19313
+Title: AGGREGATE INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS)
+
+=============================================================================================================
+Notes
+=============================================================================================================
+
+     HEADER NOTES
+
+-------------------------------------------------------------------------------------------------------------
+
+Supporting documentation on code lists, subject definitions, data accuracy, and statistical testing can be found on the American Community Survey website in the <a href=\"http://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html\">Data and Documentation<\/a> section.<br /><br />\n\nSample size and data quality measures (including coverage rates, allocation rates, and response rates) can be found on the American Community Survey website in the <a href=\"http://www.census.gov/acs/www/methodology/sample_size_and_data_quality/\">Methodology<\/a> section.<br /><br />
+
+-------------------------------------------------------------------------------------------------------------
+
+Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau''s Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities and towns and estimates of housing units for states and counties.<br /><br />
+
+-------------------------------------------------------------------------------------------------------------
+
+     FOOTER NOTES
+
+-------------------------------------------------------------------------------------------------------------
